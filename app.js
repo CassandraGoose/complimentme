@@ -27,7 +27,7 @@ $(document).ready(function() {
                      <div class="col s12">
                          <div class="card indigo lighten-4 col m8 push-m2">
                              <div class="card-content center-align indigo-text">
-                                 <span class="card-title" id="compliment">${result.message}</span>
+                                 <span class="card-title" id="compliment">${result.message}'.'</span>
                              </div>
                          </div>
                      </div>`)
