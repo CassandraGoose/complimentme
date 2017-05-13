@@ -1,0 +1,12 @@
+html {
+  background-image: url("images/grad.png")
+
+}
+
+.low-pad {
+  padding-bottom: 2em;
+}
+
+.top-pad {
+  padding-top: 8em;
+}
